@@ -1,0 +1,59 @@
+h1{
+    
+    color: pink;
+    background-color: aqua;
+    height: 150px;
+    width: 300px;
+    border: 5px solid yellow;
+}
+
+/* .box{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    color:pink;
+    border: 5px solid yellow;
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    font-size: 25px;
+    
+
+}
+.box:hover {
+    color: white;
+    background-color: yellow;
+}
+.Box1:hover {
+    color: white;
+    background-color: yellow;
+}
+.Box1{
+background-color: aqua;
+height: 200px;
+width: 200px;
+color: pink;
+border: 5px solid yellow;
+ margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    font-size: 25px;
+
+
+} */
+
+
+/*  Box model */
+
+.Hii{
+    height: 200px;
+    width: 200px;
+    background-color: skyblue;
+    padding: 50px;
+    border: 5px solid Black;
+    margin: 50px;
+    color: yellow;
+
+}

@@ -1,0 +1,93 @@
+h1{
+    color: yellow;
+    background-color: white;
+    border: 5px solid green;
+    border-radius: 50px;
+    text-align: center;
+}
+
+/* Outline */
+/* h2{
+    margin-top: 20px;
+    margin: 20px;
+    /* padding-left: 650px; */
+    /* outline-style: double;
+    outline-color: green;
+    outline-width: 4px;
+    outline-offset: 5px;
+    border: 5px solid brown;
+    outline: 4px  dotted green;
+    
+} */
+/* input[type="checkbox"]{
+accent-color: red
+}
+
+ul li{
+    list-style-type: square;
+}  */
+
+
+/*  Pseudo classes */
+
+/* .box{
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+
+} */
+
+/* pseudo classes */
+
+/* .box:hover{
+    background-color: brown;
+}
+
+ul li:first-child{
+    color: chartreuse;
+    
+}
+/* driect access ke liye ok  */
+
+/* ul li:nth-child(4){
+color: green;
+}
+
+input[type="text"]:focus{
+    background-color: aqua;
+}
+
+
+table,tr,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+}
+table td{
+    text-align: center;
+}
+table th{
+    background-color: green;
+    color:  white;
+}
+table tr:nth-child(odd){
+    background-color: black;
+    color: blue;
+}
+table tr:nth-child(even){
+    background-color: aqua;
+    color:red;
+} */ 
+
+/* Pseudo Element */
+
+/* p::first-line{
+    color: red;
+    font-weight: bold;
+} */
+ 

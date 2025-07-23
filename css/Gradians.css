@@ -1,0 +1,71 @@
+/* .box{
+    border: 5px solid black;
+    height: 100px;
+    width: 100%;
+    margin: 10px;
+    background: linear-gradient(to right,yellow 0%,blue 50%, green 100%);
+    
+}
+
+.box1{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    background: radial-gradient(red,green,yellow 20%);
+}
+
+.box2{
+    background: conic-gradient;
+}
+
+
+
+/* Overflow */
+/* body{
+    margin: 10px;
+
+}
+
+.over{
+    border: 5px solid green;
+    width: 300px;
+    height: 200px;
+    overflow: scroll;
+} */ 
+
+div{
+    width: 100px;
+    height: 100px;
+    border: 5px solid black;
+    position: absolute;
+
+}
+.b1{
+    background-color: blue;
+    top: 100px;
+    left: 100px;
+}
+.b2{
+    background-color: red;
+    top: 200px;
+    left: 200px;
+    z-index: -1;
+}
+.b3{
+    background-color: aqua;
+    top: 300px;
+    left: 300px;
+    z-index: -2;
+}
+
+
+
+
+
+
+
+
+
+
+

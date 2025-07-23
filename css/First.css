@@ -1,0 +1,30 @@
+h1{
+    color: green;
+    text-align: center;
+    text-decoration: 
+    underline dotted;
+    text-transform: uppercase;
+    text-shadow: 4px;
+
+}
+
+/*  Selector in css */
+
+/* id */
+/* class */
+/* universal selector */
+*{
+     background-color:black;
+     color: white
+}
+
+/* Group selector */
+/* h1,#p,div */
+
+/* Attribute ::file-selector-button */
+a[target="_blank"]{
+    color:Green;
+}
+
+
+
